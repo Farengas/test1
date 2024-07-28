@@ -1,0 +1,38 @@
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato_MarkupCompile.cache
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.g.resources
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.AssemblyInfo.cs
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.exe
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.deps.json
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.runtimeconfig.json
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.dll
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.pdb
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.dll
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\refint\WPF_CriptazioneQuadrato.dll
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.pdb
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.genruntimeconfig.cache
+C:\Users\Utente\source\repos\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\ref\WPF_CriptazioneQuadrato.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.exe
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.deps.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.runtimeconfig.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\bin\Debug\net8.0-windows\WPF_CriptazioneQuadrato.pdb
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato_MarkupCompile.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.g.resources
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.AssemblyInfo.cs
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\refint\WPF_CriptazioneQuadrato.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.pdb
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\WPF_CriptazioneQuadrato.genruntimeconfig.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\WPF_CriptazioneQuadrato\obj\Debug\net8.0-windows\ref\WPF_CriptazioneQuadrato.dll
